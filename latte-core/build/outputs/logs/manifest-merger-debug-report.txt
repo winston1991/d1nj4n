@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+	package
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.CAMERA
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:18:22-62
+uses-feature#android.hardware.camera
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:21:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:23:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:24:22-78
+application
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:26:5-35:19
+	android:supportsRtl
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:27:9-35
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:31:9-34:72
+	android:screenOrientation
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:34:13-69
+	android:name
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml:32:13-60
+uses-sdk
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		ADDED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Project\latteEc\d1nj4n\latte-core\src\main\AndroidManifest.xml

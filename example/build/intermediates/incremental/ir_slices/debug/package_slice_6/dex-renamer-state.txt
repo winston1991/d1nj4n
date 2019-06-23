@@ -1,0 +1,4 @@
+#Wed May 29 09:12:50 CST 2019
+base.0=F\:\\Android Project\\latteEc\\d1nj4n\\example\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

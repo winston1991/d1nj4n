@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res"/><source path="F:\Android Project\latteEc\d1nj4n\latte-core\build\generated\res\rs\debug"/><source path="F:\Android Project\latteEc\d1nj4n\latte-core\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res"><file name="push_bottom_in" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\anim\push_bottom_in.xml" qualifiers="" type="anim"/><file name="push_bottom_out" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\anim\push_bottom_out.xml" qualifiers="" type="anim"/><file name="btn_border" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\drawable\btn_border.xml" qualifiers="" type="drawable"/><file name="btn_border_nativephoto" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\drawable\btn_border_nativephoto.xml" qualifiers="" type="drawable"/><file name="btn_border_takephoto" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\drawable\btn_border_takephoto.xml" qualifiers="" type="drawable"/><file name="bottom_item_icon_text_layout" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\layout\bottom_item_icon_text_layout.xml" qualifiers="" type="layout"/><file name="delegate_bottom" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\layout\delegate_bottom.xml" qualifiers="" type="layout"/><file name="dialog_camera_panel" path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\layout\dialog_camera_panel.xml" qualifiers="" type="layout"/><file path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\values\ids.xml" qualifiers=""><item name="delegate_container" type="id"/></file><file path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Latte</string></file><file path="F:\Android Project\latteEc\d1nj4n\latte-core\src\main\res\values\style.xml" qualifiers=""><style name="dialog" parent="@android:style/Theme.Dialog">
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="Theme.AppCompat.Translucent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style><style name="anim_panel_up_from_bottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style></file></source><source path="F:\Android Project\latteEc\d1nj4n\latte-core\build\generated\res\rs\debug"/><source path="F:\Android Project\latteEc\d1nj4n\latte-core\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\Android Project\latteEc\d1nj4n\latte-core\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="F:\Android Project\latteEc\d1nj4n\latte-core\src\debug\res"/></dataSet><mergedItems/></merger>
